@@ -1,4 +1,4 @@
-module github.com/cloudflare/odoh-go
+module github.com/LeonardWalter/odoh-go
 
 go 1.20
 
